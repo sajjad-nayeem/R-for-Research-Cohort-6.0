@@ -150,6 +150,23 @@ mat[1,]
 
 mat[,1]
 
+# Factor
+
+gender <- c("male", "female", "male")
+factor(gender)
+class(gender)
+
+
+gender <- as.factor(gender)
+
+
+
+
+
+
+
+
+
 
 
 
